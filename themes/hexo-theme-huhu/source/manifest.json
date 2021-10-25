@@ -1,0 +1,10 @@
+{
+  "scope": "/",
+  "name": "Lxs's home",
+  "version": "1.0.0",
+  "short_name": "Lxs",
+  "start_url": "/?from=homescreen",
+  "display": "minimal-ui",
+  "description": "博客|学习|前端|后端|计算机视觉|机器学习",
+  "background_color": "#fff"
+}
